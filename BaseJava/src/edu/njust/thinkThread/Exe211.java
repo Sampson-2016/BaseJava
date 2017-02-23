@@ -7,17 +7,17 @@ public class Exe211 implements Runnable{
 	
 	public Exe211() {
 		// TODO Auto-generated constructor stub
-		System.out.println("����:"+id +" ����");
+		System.out.println("id: "+id );
 	}
 	
 	@Override
 	public void run() {
 		// TODO Auto-generated method stub
-		System.out.println("1��ӡ��"+id);
+		System.out.println("one:"+id);
 		Thread.yield();
-		System.out.println("2��ӡ��"+id);
+		System.out.println("two:"+id);
 		Thread.yield();
-		System.out.println("3��ӡ��"+id);
+		System.out.println("three:"+id);
 		Thread.yield();
 		System.out.println("Printer ended, ID = " + id);
 	}
