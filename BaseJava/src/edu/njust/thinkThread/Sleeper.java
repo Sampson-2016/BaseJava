@@ -1,6 +1,10 @@
 package edu.njust.thinkThread;
 
-import java.io.InterruptedIOException;
+/**
+ * 
+ * @author sampson
+ *
+ */
 
 public class Sleeper extends Thread{
 	private int duration;
