@@ -8,7 +8,11 @@ import java.util.concurrent.Callable;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 import java.util.concurrent.Future;
-
+/**
+ * 
+ * @author sampson
+ *
+ */
 public class Exe2122 implements Callable <String> {
 	
 	private final int n;
