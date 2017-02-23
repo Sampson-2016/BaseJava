@@ -12,6 +12,6 @@ public class MyTest1  extends TimerTask{
 	
 	public void run() {
 		// TODO Auto-generated method stub
-		System.out.println("����ʱ����"+sf.format(new Date()));
+		System.out.println(sf.format(new Date()));
 	}
 }

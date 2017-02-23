@@ -34,7 +34,7 @@ public class Exe2122 implements Callable <String> {
 		for (int i = 0; i < sequences.length; i++) {
 			sumInteger+=sequences[i];
 		}
-		return n+"����ĺ͵��ڣ�"+sumInteger;
+		return n+"："+sumInteger;
 	}
 	
 	public static void main(String[] args) {

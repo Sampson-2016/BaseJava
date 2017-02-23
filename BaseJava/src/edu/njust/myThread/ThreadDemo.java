@@ -1,9 +1,7 @@
 package edu.njust.myThread;
 /**
  * @author dky
-
  * @date 2017-2-17
- * @function �ػ����
  * @versions 1.0 
  */
 public class ThreadDemo extends Thread {
