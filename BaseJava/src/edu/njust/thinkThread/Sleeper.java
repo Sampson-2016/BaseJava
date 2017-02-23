@@ -3,7 +3,7 @@ package edu.njust.thinkThread;
 /**
  * 
  * @author sampson
- *
+ *@version 1.0
  */
 
 public class Sleeper extends Thread{
