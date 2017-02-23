@@ -26,7 +26,7 @@ public class Exe212 implements Runnable {
 			sequences[i]=fic(i+1);
 		}
 		
-		System.out.println("size："+n+Arrays.toString(sequences));
+		System.out.println("size:"+n+Arrays.toString(sequences));
 	}
 	
 	public static void main(String[] args) {
